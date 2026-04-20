@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pkl
+data/cache/
+.DS_Store
+.claude/
